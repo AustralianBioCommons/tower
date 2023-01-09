@@ -1,0 +1,10 @@
+# see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+subitems:
+  - title: Home
+    url: /
+  - title: Join the pilot project
+    url: /join_us
+  - title: Contact us
+    url: /contact_us
+    
+    
