@@ -1,23 +1,26 @@
-title: How-to Guide
-# This appears in the html browser tab for the site title (seen mostly by search engines, not users)
-
-#topnav_title: Website title
-# Optional: this appears on the top navigation bar next to the main_logo.svg icon
-
-description: "A bioinformatics focused How-to Guide"
-# Metadata description of the website
-
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.26.0
+title: "Aus BioCommons Nextflow Tower"
+description: A website for the the Australian BioCommons Nextflow Tower service
+remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@1.26.0
+topnav_title: Aus Nextflow Tower
 
 theme_variables:
   # biocommons blue
   theme_color: 205a86
   topnav:
-    brand_logo: assets/img/logo_example.png
+    brand_logo: assets/img/main_logo.png
+  privacy_statement_url: https://www.biocommons.org.au/privacy
+
+permalink: /:categories/:year/:month/:day/:title
 
 exclude:
   - README.md
+  - .gitignore
+  - var/
   - vendor
+  - Gemfile*
+  - LICENSE
+
+permalink: /:categories/:year/:month/:day/:title
 
 defaults:
   -
@@ -25,10 +28,17 @@ defaults:
       path: ""
       type: "pages"
     values:
-      permalink: /:basename
       layout: "page"
       sidebar: main
-
+  -
+    scope:
+      path: "user-guide"
+      type: "pages"
+    values:
+      sidebar: user-guide
+    
+    
+  
 plugins:
   - jemoji
   - jekyll-sitemap

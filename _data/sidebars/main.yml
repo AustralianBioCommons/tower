@@ -1,8 +1,12 @@
+title: Main
+title_url: /
 subitems:
-  - title: Home
-    url: /index
-  - title: Example page
-    url: /example_page
+  - title: Join the pilot project
+    url: /main/join_us
+  - title: Contact us
+    url: /main/contact_us
   - title: Contributors
-    url: /contributors
+    url: /main/contributors
+  - title: User Guide
+    url: /user-guide/
   
