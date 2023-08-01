@@ -38,7 +38,7 @@ Since investigations commenced in July 2022:
 
 ## Quick access links
 
-[Join the pilot project](/tower/pages/main/join_us){: class="btn btn-primary col-3"}
+[Join the pilot project](/tower/main/join_us){: class="btn btn-primary col-3"}
 
 <br />  
 
