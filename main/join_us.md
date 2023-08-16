@@ -4,7 +4,7 @@ toc: false
 ---
 
 
-If you would like to register your interest to participate in the pilot project and explore the community workspace, please familiarise yourself with the prerequisites checklist below and complete this [**expression of interest registration form**](https://docs.google.com/forms/d/e/1FAIpQLScVFzZXYyFf-3oRaNp4674R1001hp3M0F673tr6zGM6wHsgFA/viewform?usp=sf_link) and a member of the project team will be in contact with you to discuss this further. Otherwise, you can access a personal workspace by login into the service at this [link](tower.services.biocommons.org.au/). Personal workspaces are not supported by the Australian BioCommons at this stage.  
+If you would like to register your interest to participate in the pilot project and explore the community workspace, please familiarise yourself with the prerequisites checklist below and complete this [**expression of interest registration form**](https://docs.google.com/forms/d/e/1FAIpQLScVFzZXYyFf-3oRaNp4674R1001hp3M0F673tr6zGM6wHsgFA/viewform?usp=sf_link) and a member of the project team will be in contact with you to discuss this further. Otherwise, you can access a personal workspace by login into the service at this [link](https://tower.services.biocommons.org.au). Personal workspaces are not supported by the Australian BioCommons at this stage.  
 
 ## Prerequisite list
 

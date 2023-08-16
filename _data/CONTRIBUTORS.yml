@@ -12,11 +12,18 @@
 # an example contributor is included below
 # example roles include "lead", "first-author", "author", "editor", "workflow-tester"
 
-#Johan Gustafsson:
-#    git: supernord
-#    email: johan@biocommons.org.au
-#    orcid: 0000-0002-2977-5032
-#    role: author
-#    affiliation: Australian BioCommons / University of Melbourne
+Ziad Al-Bkhetan:
+    git: ziadbkh
+    email: ziad@biocommons.org.au
+    orcid: 0000-0002-4032-5331
+    role: Service Owner
+    affiliation: Australian BioCommons / University of Melbourne
+
+Johan Gustafsson:
+    git: supernord
+    email: johan@biocommons.org.au
+    orcid: 0000-0002-2977-5032
+    role: Business analyst
+    affiliation: Australian BioCommons / University of Melbourne
 
 

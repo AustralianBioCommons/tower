@@ -1,6 +1,6 @@
 title: "Aus BioCommons Nextflow Tower"
 description: A website for the the Australian BioCommons Nextflow Tower service
-remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@1.26.0
+remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@2.1.0
 topnav_title: Aus Nextflow Tower
 
 theme_variables:
@@ -38,9 +38,11 @@ defaults:
       sidebar: user-guide
     
     
-  
 plugins:
-  - jemoji
+  - elixir-toolkit-theme-plugins
+  - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-github-metadata
+  - jemoji
   - webrick
