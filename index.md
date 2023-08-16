@@ -47,17 +47,7 @@ Since investigations commenced in July 2022:
 <br />  
 
 
-<div class="text-center">
-    <div class="row">
-        <div class="col"><img src="assets/img/bioplatforms-australia-logo.png" class="rounded col-4" alt="bioplatforms australia" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-        <div class="col"><img src="assets/img/ARDC+logo+RGB.png" class="rounded col-4" alt="Australian Research Data Commons" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-        <div class="col"><img src="assets/img/ncris-logo1.png" class="rounded col-4" alt="NCRIS" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-        <div class="col"><img src="assets/img/pawsey-logo-beige.png" class="rounded col-4" alt="Pawsey Supercomputing Centre" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-    </div>
-    <div class="row">
-        <div class="col"><img src="assets/img/NCI+Australia+logo+black+PNG+transparent.png" class="rounded col-4" alt="National Computational Infrastructure (NCI)" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-        <div class="col"><img src="assets/img/QCIF_Logo.png" class="rounded col-4" alt="Queensland Cyber Infrastructure Foundation" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-        <div class="col"><img src="assets/img/7465070.png" class="rounded col-4" alt="Melbourne Bioinformatics" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-        <div class="col"><img src="assets/img/Uni-logo-transparent.png" class="rounded col-4" alt="The University of Sydney" style="width:225px; height:100px; padding: 10px 10px 10px 10px;"></div>
-    </div>
-</div>
+## Acknowledgements
+
+{% include affiliation-tiles-selection.html type="infrastructure" %}
+

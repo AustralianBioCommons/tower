@@ -1,7 +1,7 @@
-title: "Aus BioCommons Nextflow Tower"
-description: A website for the the Australian BioCommons Nextflow Tower service
+title: "Australian BioCommons Nextflow Tower Service"
+description: Documentation and User Guides for the the Australian BioCommons Nextflow Tower service
 remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@2.1.0
-topnav_title: Aus Nextflow Tower
+topnav_title:
 
 theme_variables:
   # biocommons blue
@@ -10,7 +10,7 @@ theme_variables:
     brand_logo: assets/img/main_logo.png
   privacy_statement_url: https://www.biocommons.org.au/privacy
 
-permalink: /:categories/:year/:month/:day/:title
+#permalink: /:categories/:year/:month/:day/:title
 
 exclude:
   - README.md

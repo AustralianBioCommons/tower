@@ -15,3 +15,51 @@
   expose: true
   type: infrastructure
   url: https://www.biocommons.org.au/
+
+- name: Bioplatforms Australia
+  image_url: /assets/img/bioplatforms-australia-logo.png
+  expose: true
+  type: infrastructure
+  url: https://bioplatforms.com/
+
+- name: ARDC
+  image_url: /assets/img/ARDC+logo+RGB.png
+  expose: true
+  type: infrastructure
+  url: https://ardc.edu.au/
+
+- name: NCRIS
+  image_url: /assets/img/ncris-logo1.png
+  expose: true
+  type: infrastructure
+  url: https://www.education.gov.au/ncris
+
+- name: Pawsey
+  image_url: /assets/img/pawsey-logo-beige.png
+  expose: true
+  type: infrastructure
+  url: https://pawsey.org.au/
+
+- name: NCI
+  image_url: /assets/img/NCI+Australia+logo+black+PNG+transparent.png
+  expose: true
+  type: infrastructure
+  url: https://nci.org.au/
+
+- name: QCIF
+  image_url: /assets/img/QCIF_Logo.png
+  expose: true
+  type: infrastructure
+  url: https://www.qcif.edu.au/
+
+- name: Melbourne Bioinformatics
+  image_url: /assets/img/7465070.png
+  expose: true
+  type: infrastructure
+  url: https://www.melbournebioinformatics.org.au/
+
+- name: University of Sydney
+  image_url: /assets/img/Uni-logo-transparent.png
+  expose: true
+  type: infrastructure
+  url: https://www.sydney.edu.au/

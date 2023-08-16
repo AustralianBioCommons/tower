@@ -1,12 +1,12 @@
-title: Main
+title: About
 title_url: /
 subitems:
   - title: Join the pilot project
     url: /main/join_us
+  - title: Service access models
+    url: /main/access-models
   - title: Contact us
     url: /main/contact_us
   - title: Contributors
     url: /main/contributors
-  - title: User Guide
-    url: /user-guide/
   
