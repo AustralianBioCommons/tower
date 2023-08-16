@@ -1,7 +1,6 @@
 title: "Australian BioCommons Nextflow Tower Service"
 description: Documentation and User Guides for the the Australian BioCommons Nextflow Tower service
 remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@2.1.0
-topnav_title:
 
 theme_variables:
   # biocommons blue
