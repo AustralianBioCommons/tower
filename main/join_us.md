@@ -1,5 +1,7 @@
 ---
 title: Joining the pilot project
+description: Information on how to join the Australian BioCommons Nextflow Tower pilot project.
+type: pilot
 toc: false
 ---
 

@@ -4,7 +4,7 @@ toc: false
 ---
 
 
-## Project outline
+## Pilot project outline
 
 Through a licence agreement with Seqera Labs, Australian BioCommons is in the process of standing up a national Nextflow Tower service, enabling a centralised command post for Nextflow pipelines to be offered as a fully subsidised service for Australian researchers.
 
@@ -14,13 +14,13 @@ Working with partners including service hosts Pawsey Supercomputing Research Cen
 
 The pilot project has three key ambitions, which are to
 
-1. Establish a service where BioCommons early adopters, including both science and method communities, can easily run, manage and monitor the execution of Nextflow workflows on dedicated compute infrastructure.
+1. **Establish a service** where BioCommons early adopters, including both science and method communities, can easily run, manage and monitor the execution of Nextflow workflows on dedicated compute infrastructure.
 
-2. Understand service demand and utilisation by working with BioCommons communities and assessing interest from other communities
+2. **Understand service demand and utilisation** by working with BioCommons communities and assessing interest from other communities
 
-3. Develop service operational models; understand costs and benefits; develop a business case for continuing the service
+3. **Develop service operational models**; understand costs and benefits; develop a business case for continuing the service
 
-At the end of the pilot phase, the Australian BioCommons will make the decision on providing this service for a long term. This depends on the feedback and outcomes of this pilot project. Successful use cases will play a major role in influencing the decision.
+At the end of the pilot phase, the Australian BioCommons will make a decision on providing this service long term. This depends on the feedback and outcomes of this pilot project. Successful use cases will play a major role in influencing this decision.
 
 ## Service status
 
@@ -38,13 +38,8 @@ Since investigations commenced in July 2022:
 
 ## Quick access links
 
-[Join the pilot project](/tower/main/join_us){: class="btn btn-primary col-3"}
+{% include section-navigation-tiles.html type=”pilot” %}
 
-<br />  
-
-<br />  
-
-<br />  
 
 
 ## Acknowledgements
