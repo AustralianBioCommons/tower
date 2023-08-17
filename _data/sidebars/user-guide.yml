@@ -7,6 +7,13 @@ subitems:
     url: /user-guide/service-access
   - title: 3. Configure and use compute environments
     url: /user-guide/compute-env
+    subitems:
+      - title: Create personal token
+        url: /user-guide/create_personal_token
+      - title: Create Tower Agent credentials
+        url: /user-guide/create_tower_agent_credentials
+      - title: Configuring compute environment
+        url: /user-guide/configuring_compute_environment
   - title: 4. Add workflow to a workspace
     url: /user-guide/add-workflow
   - title: HPC recommendations and best practice
