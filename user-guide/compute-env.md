@@ -17,29 +17,30 @@ To access these compute infrastructures through Tower, compute environments need
 
 Tower supports adding compute environments for HPCs that utilise [Slurm](https://help.tower.nf/latest/compute-envs/slurm/) and [PBS Pro](https://help.tower.nf/latest/compute-envs/altair-pbs-pro/) workload managers. 
 
+
 > Note: compute environments are shared across the users of the same workspace. 
 
-In order to access compute infrastructre, you need to create access [credentials](https://help.tower.nf/latest/credentials/overview/#introduction). SSH keys or Tower agents can be used to access the HPC. SSH keys are easier to use but some HPC providers are restricted from sharing SSH keys with a third party (e.g. Tower Service). In addition, it can be tricky to use SSH keys if the HPC is in a private network and requires VPN access. 
+In order to access compute infrastructure, you need to create access [credentials](https://help.tower.nf/latest/credentials/overview/#introduction). SSH keys or Tower agents can be used to access the HPC. SSH keys are easier to use but some HPC providers are restricted from sharing SSH keys with a third party (e.g. Tower Service). In addition, it can be tricky to use SSH keys if the HPC is in a private network and requires VPN access. 
 
-The following instructions is to configure compute invirnment for HPC through Tower agent credentials.
+The following instructions will help you configure compute environments for HPC by using Tower Agent credentials.
 
 
 ### Steps to configure HPC on Tower within organisation workspace
 
-Prerequisites for configuration on organisation workspace:
+#### Prerequisites for configuration on organisation workspace:
 
-1.	You have access to an organisation workspace
-2.	The user has an owner or admin role within this workspace.
+- You have access to an organisation workspace
+- The user has an owner or admin role within this workspace.
 
 
-The following steps need to be completed in order unless they have been completed before and are to be reused.
+The following steps need to be completed in order, unless they have been completed earlier and are going to be reused.
 
 1.	Create Personal Token
-2.	Creating Tower agent credentials
-3.	Configuring the compute infrastructure
+2.	Create Tower agent credentials
+3.	Configure the compute infrastructure
 
 
-**Detailed Instructions:**
+#### Detailed instructions
 
 <div class="accordion" id="accordion-comp-env-all">
     <div class="accordion-item">
@@ -169,16 +170,16 @@ The following steps need to be completed in order unless they have been complete
 </div>
 
 
-### Utilising Compute envornment with tower agent
+### Utilising Compute environment with Tower Agent
 
-There are few points to be considered when using tower agent
+There are few points to be considered when using the Tower Agent.
 
-1. The users of a workspace will share the same compute environment and credentials.
-2. Each user needs to create their own personal access token.
-3. Each user needs to run Tower agent on their account on the HPC.
-4. Each user needs to pass their personal access token and the shared connection id (of the credential) to their instance of tower agent on the HPC.
+- The users of a workspace will share the same compute environment and credentials.
+- Each user needs to create their own personal access token.
+- Each user needs to run Tower agent on their account on the HPC.
+- Each user needs to pass their personal access token and the shared connection id (of the credential) to their instance of tower agent on the HPC.
 
-To do that:
+To address these points:
 
 1. Create a personal access token or use a pre-created access token as described here (access1).
 2. Obtain the connection id for the compote environment from its credential page (conn_id).
@@ -192,9 +193,9 @@ To do that:
      <p>The agent should be able to access the internet.</p>
 </div>
 
-## Configuring Commerical cloud
+## Configuring commercial cloud resources
 
 The easiest way is using AWS Batch and tower forge permissions to allow tower to create the batch environment. In order to do this please follow this [documentation](https://help.tower.nf/latest/compute-envs/aws-batch/).
 
 Other Compute infrastructures such Azure and others: Please visit [Tower documentation](https://help.tower.nf/latest/compute-envs/overview/) for more details.
- 
+
