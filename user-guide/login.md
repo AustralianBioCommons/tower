@@ -1,6 +1,6 @@
 ---
 title: Log in to the service
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
+contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgie Samaha]
 description: How to log in to the Australian BioCommons Nextflow Tower service.
 toc: false
 type: guides

@@ -1,6 +1,6 @@
 ---
 title: Configure and use compute environments
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
+contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgie Samaha]
 description: Instructions to add and configure compute envornments for HPCs and commercial cloud services.
 toc: true
 type: guides

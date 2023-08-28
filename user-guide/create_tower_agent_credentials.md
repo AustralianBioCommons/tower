@@ -1,6 +1,6 @@
 ---
 title: Create Personal Token
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
+contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgie Samaha]
 description: 
 toc: true
 type: compute-environment
@@ -32,7 +32,7 @@ For an admin to create a Tower Agent credential, follow these steps:
 
 The steps above will help to create the credentials and understand the Agent's parameters and how it runs. In practice, this can be better optimised by having all scripts and tokens in config files and bash scripts. 
 
-See best practice recommendations. 
+See best [practice recommendations](hpc-recommendations). 
 
 The procedure is also described in the Tower documentation [Quick Start](https://help.tower.nf/latest/agent/#quickstart).
 

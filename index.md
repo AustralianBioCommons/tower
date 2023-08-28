@@ -1,6 +1,7 @@
 ---
-title: he Australian BioCommons Nextflow Tower pilot project
+title: The Australian BioCommons Nextflow Tower pilot project
 toc: false
+contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Patrick Capon]
 ---
 
 
@@ -21,7 +22,7 @@ The pilot project has four key ambitions, which are to:
 
 At the end of the pilot phase, the Australian BioCommons will make a decision on providing this service long term. Successful use cases will play a major role in influencing this decision.
 
-## Service status
+## Pilot project status
 
 Since investigations commenced in July 2022:
 - Nextflow Tower has been deployed on Pawsey infrastructure
