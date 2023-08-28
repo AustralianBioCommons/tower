@@ -1,5 +1,5 @@
 ---
-title: Add workflow to a workspace
+title: Add a workflow to your workspace
 contributors: [Ziad Al-Bkhetan, Johan Gustafsson]
 description: Instructions to add workflows to a workspace.
 toc: false
