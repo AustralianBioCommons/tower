@@ -5,42 +5,60 @@ type: pilot
 toc: false
 ---
 
+## Access and available support
 
-If you would like to register your interest to participate in the pilot project and explore the community workspace, please familiarise yourself with the prerequisites checklist below and complete this [**expression of interest registration form**](https://docs.google.com/forms/d/e/1FAIpQLScVFzZXYyFf-3oRaNp4674R1001hp3M0F673tr6zGM6wHsgFA/viewform?usp=sf_link) and a member of the project team will be in contact with you to discuss this further. Otherwise, you can access a personal workspace by login into the service at this [link](https://tower.services.biocommons.org.au). Personal workspaces are not supported by the Australian BioCommons at this stage.  
+Australian researchers, research groups and organisations can join the Australian BioCommons Nextflow Tower pilot project through the personal or organisation workspace [access model](/main/access-models.md) that suits their needs.
+
+If your group would like to access and explore the organisation workspace, please express your interest by [contacting us](/main/contact_us.md). A member of the project team will be in contact to discuss this further. Otherwise, you can access the personal workspace option by logging into the service at this [link](https://tower.services.biocommons.org.au).
+
+Please note that we are unable to directly support personal workspaces at this stage as we have limited capacity during the pilot phase. The available support is summarised below.
+
+**Personal workspace support:**
+
+-   Documentation and [user guide](/user-guide/index.md) available. 
+-   Support for technical issues related to the core functionality of the Australian BioCommons Nextflow Towerservice, such as service availability
+-   There is no support available for workspace resources configuration or management issues such as workflows, compute environments, and credentials.
+
+**Organisation workspace support:**
+
+-   Documentation and [user guide](/user-guide/index.md) available
+-   Hands-on support from BioCommons staff to deploy your workspace under the following conditions:
+-   Fulfilment of the prerequisite list described below.
+-   Agreement to follow a support plan with milstones to achieve.
+-   Access to compute infrastructure is available through [Australian BioCommons Leadership Share (ABLeS)](https://australianbiocommons.github.io/ables/) if eligibility criteria are met.
+
+If you meet the prerequisites for an organisation workspace and require help to quickly push your workspace to production mode, [contacting us](/main/contact_us.md) to discuss this.
+
+If you are unable to meet the prerequisites, you can still access the BioCommons Nextflow Tower service to explore and learn more. However, we encourage you to start working on meeting the prerequisites, as they are essential for effective use of the workspace and to gain the benefits of the support team.
+
+As we are in a pilot project phase, there may be some unplanned interruptions and outages. We will attempt to minimise any disruption during this time.  
 
 ## Prerequisite list
 
-1. **Access to compute infrastructure**
+1.  **Access to compute infrastructure**\
+    At least one compute infrastructure that can be configured on the BioCommons Tower service. There are several platforms that are supported on Tower and you can find them here.
 
-    The community should have access to at least one compute infrastructure that will be configured on the BioCommons Tower service. There are several supported platforms on Tower and you can find them here.
+2.  **Nextflow workflows**\
+    You should have nextflow workflows implemented and tested on the compute environments from 1. Internally implemented workflows, those re-used from nf-core, or any other resources are ok. We prefer implementation of config profiles that allow docker/singularity executions for portability purposes.
 
-2. **Nextflow pipelines**
+3.  **Testing datasets**\
+    For any suggested workflow, there must be testing datasets available during deployment on the BioCommons Tower service. This should include small datasets for quick testing and real datasets for production testing.
 
-    The community should have nextflow pipelines implemented and tested on the compute environments (from 1). Internally implemented pipelines, those reused from nf-core or any other resources are ok.
-    Preference: Implementation of config profiles that allows conda and docker executions for portability purposes.
+4.  **Nextflow expertise**\
+    The deployment and configuration of compute environments and workflows should be led and driven by the group or organisation. This requires t dedicated resources with technical expertise in Nextflow, and infrastructure expertise, including HPC and commercial cloud (depending on the exact use case).\
+    The dedicated resource with relevant expertise may need to:
 
-3. **Testing datasets**
+    -   Implement changes to the workflow (usually edits to the configuration profiles)
+    -   Configure, test and debug the workflows on the infrastructures from prerequisite 1
+    -   Understand the available computational resources they access
+    -   Have admin access to the compute infrastructure
+    -   Manage user access to the organisation workspace.
 
-    For any suggested pipeline, there should be some testing datasets available during the deployment on Tower. This should include small datasets for quick testing and real datasets for production testing.
 
-4. **Nextflow expertise**
 
-    The deployment and configuration of compute environments and pipelines should be led and driven by the community/organisation.  This requires the organisation/community to have dedicated resources with technical expertise in nextflow, and infrastructure expertise, including HPC and commercial cloud (depending on the case).
+## Support to access infrastructure 
 
-    The dedicated resource with relevant expertise might need to do the following:
+The Australian BioCommons provide support to access compute infrastructure on NCI Australia and the Pawsey Supercomputing Centre for eligible researchers, research groups and/or organisations through the [Australian BioCommons Leadership Share (ABLeS)](https://australianbiocommons.github.io/ables/).
 
-    - Implement changes to the pipeline (usually edits to the configuration profiles).
-    - Configure, test and debug the pipelines on the community infrastructures.
-    - Understand the available computational resources they access.
-    - Might require admin access to the compute infrastructure.
-    - Manage user access to the community/organisation workspace.
-
-    The BioCommons will provide all possible support with respect to the available resources.
-
-<br />  
-
-<div class="text-center">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLScVFzZXYyFf-3oRaNp4674R1001hp3M0F673tr6zGM6wHsgFA/viewform?usp=sf_link" class="btn btn-primary col-3">Join the pilot project form </a>
-</div>
 
 
