@@ -31,7 +31,7 @@ Since investigations commenced in July 2022:
 
 ## Quick access links
 
-{% include section-navigation-tiles.html type=”pilot” %}
+{% include section-navigation-tiles.html type="pilot" %}
 
 
 
