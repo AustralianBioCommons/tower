@@ -19,7 +19,7 @@ Please note:
 - Organisation workspaces can be shared where all their resources become accessible to all users within the Australian BioCommons organisation on Tower. This kind of workspace can be very effective for sharing workflows that benefit the broader bioinformatics community. Check the Tower documentation to understand more about [shared worksapces](https://help.tower.nf/latest/orgs-and-teams/shared-workspaces/).
 
 > **Important:**
-> Please reach out by emailing tower@biocommons.org.au if you plan to apply for an organisation workspace.
+> Please [contacting us](contact_us) if you plan to apply for an organisation workspace.
 
 > **Organisaion workspace Support:**
 > Organisation workspace support: Read about the [available support](/main/join_us.md) for this access model here.
