@@ -7,7 +7,7 @@ toc: false
 
 ## Access and available support
 
-Australian researchers, research groups and organisations can join the Australian BioCommons Nextflow Tower pilot project through the personal or organisation workspace [access model](/main/access-models.md) that suits their needs.
+Australian researchers, research groups and organisations can join the Australian BioCommons Nextflow Tower pilot project through the personal or organisation workspace [access model](main/access-models.md) that suits their needs.
 
 If your group would like to access and explore the organisation workspace, please express your interest by [contacting us](/main/contact_us.md). A member of the project team will be in contact to discuss this further. Otherwise, you can access the personal workspace option by logging into the service at this [link](https://tower.services.biocommons.org.au).
 
@@ -15,13 +15,13 @@ Please note that we are unable to directly support personal workspaces at this s
 
 **Personal workspace support:**
 
--   Documentation and [user guide](/user-guide/index.md) available. 
+-   Documentation and [user guide](tower/user-guide/index.md) available. 
 -   Support for technical issues related to the core functionality of the Australian BioCommons Nextflow Towerservice, such as service availability
 -   There is no support available for workspace resources configuration or management issues such as workflows, compute environments, and credentials.
 
 **Organisation workspace support:**
 
--   Documentation and [user guide](/user-guide/index.md) available
+-   Documentation and [user guide](/tower/user-guide/index.md) available
 -   Hands-on support from BioCommons staff to deploy your workspace under the following conditions:
 -   Fulfilment of the prerequisite list described below.
 -   Agreement to follow a support plan with milstones to achieve.

@@ -1,6 +1,6 @@
 ---
 title: Configuring compute environment
-contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgina Samaha]
+contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Georgie Samaha]
 description: 
 toc: true
 type: compute-environment

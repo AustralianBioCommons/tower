@@ -1,5 +1,9 @@
-
-# Access models for the pilot project
+---
+title: Access models for the pilot project
+description: Information on how to access the Australian BioCommons Nextflow Tower during pilot project.
+contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Patrick Capon]
+toc: false
+---
 
 There are currently two ways in which you can make use of the Nextflow Tower service during the pilot project:
 
