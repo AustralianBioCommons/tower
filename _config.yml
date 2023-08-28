@@ -1,7 +1,6 @@
-title: "Aus BioCommons Nextflow Tower"
-description: A website for the the Australian BioCommons Nextflow Tower service
-remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@1.26.0
-topnav_title: Aus Nextflow Tower
+title: "Nextflow Tower Pilot"
+description: Documentation and User Guides for the the Australian BioCommons Nextflow Tower service - The Pilot project
+remote_theme: ELIXIR-Belgium/jekyll-bootstrap-theme@2.1.0
 
 theme_variables:
   # biocommons blue
@@ -38,9 +37,3 @@ defaults:
       sidebar: user-guide
     
     
-  
-plugins:
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-github-metadata
-  - webrick

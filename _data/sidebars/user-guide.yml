@@ -1,12 +1,29 @@
-title: User Guide
+title: Getting started
 title_url: /user-guide/
 subitems:
-  - title: Main
-    url: /
-  - title: Contact us
-    url: /main/contact_us
+  - title: 1. Login
+    url: /user-guide/login
+  - title: 2. Accessing the service
+    url: /user-guide/service-access
+  - title: 3. Configure and use compute environments
+    url: /user-guide/compute-env
+    subitems:
+      - title: Create personal token
+        url: /user-guide/create_personal_token
+      - title: Create Tower Agent credentials
+        url: /user-guide/create_tower_agent_credentials
+      - title: Configuring compute environment
+        url: /user-guide/configuring_compute_environment
+  - title: 4. Add workflow to a workspace
+    url: /user-guide/add-workflow
+  - title: HPC recommendations and best practice
+    url: /user-guide/hpc-recommendations
+  - title: Configure HPC
+    url: /user-guide/configure-hpc
+  - title: The Tower Agent
+    url: /user-guide/shared-agent
   - title: Contributors
-    url: /main/contributors
+    url: /user-guide/contributors
 
   
 
