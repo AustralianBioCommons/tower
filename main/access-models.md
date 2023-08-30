@@ -22,7 +22,7 @@ Please note:
 > Please [contact us](contact_us) if you plan to apply for an organisation workspace.
 
 > **Organisation workspace support:**
-> Organisation workspace support: Read about the [available support](/main/join_us.md) for this access model here.
+> Read about the [available support](/main/join_us.md) for this access model here.
 
 
 ## 2. Personal workspace
