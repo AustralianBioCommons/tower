@@ -8,7 +8,7 @@ type: guides
 
 ## Introduction
 
-Tower supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Tower documentation] (https://help.tower.nf/latest/compute-envs/overview/). 
+Tower supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Tower documentation](https://help.tower.nf/latest/compute-envs/overview/). 
 
 To access these compute infrastructures through Tower, compute environments need to be created and configured on Tower for each compute infrastructure.
 
@@ -49,7 +49,7 @@ There are a few points to be considered when using the Tower agent:
 
 To address these points:
 
-1. Create a personal access token or use a pre-created access token as described here (access1).
+1. Create a personal access token or use a pre-created access token as described [here](create_personal_token) (access1).
 2. Obtain the connection id for the compote environment from its credential page (conn_id).
 3. Run Tower agent using access1 and conn_id, and an independent work directory (any directory you have access to).
 4. The compute environment will be available and usable as long as the agent is running.
