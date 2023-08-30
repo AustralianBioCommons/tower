@@ -15,8 +15,8 @@ Please note that we are unable to directly support personal workspaces at this s
 
 **Personal workspace support:**
 
--   Documentation and [user guide](/tower/user-guide/index) available. 
--   Support for technical issues related to the core functionality of the Australian BioCommons Nextflow Towerservice, such as service availability
+-   Documentation and [user guide](/tower/user-guide/index) available 
+-   Support for technical issues related to the core functionality of the Australian BioCommons Nextflow Tower service, such as service availability
 -   There is no support available for workspace resources configuration or management issues such as workflows, compute environments, and credentials.
 
 **Organisation workspace support:**
@@ -27,7 +27,7 @@ Please note that we are unable to directly support personal workspaces at this s
 -   Agreement to follow a support plan with milstones to achieve.
 -   Access to compute infrastructure is available through [Australian BioCommons Leadership Share (ABLeS)](https://australianbiocommons.github.io/ables/) if eligibility criteria are met.
 
-If you meet the prerequisites for an organisation workspace and require help to quickly push your workspace to production mode, [contacting us](contact_us) to discuss this.
+If you meet the prerequisites for an organisation workspace and require help to quickly push your workspace to production mode, [contact us](contact_us) to discuss this.
 
 If you are unable to meet the prerequisites, you can still access the BioCommons Nextflow Tower service to explore and learn more. However, we encourage you to start working on meeting the prerequisites, as they are essential for effective use of the workspace and to gain the benefits of the support team.
 
@@ -45,7 +45,7 @@ As we are in a pilot project phase, there may be some unplanned interruptions an
     For any suggested workflow, there must be testing datasets available during deployment on the BioCommons Tower service. This should include small datasets for quick testing and real datasets for production testing.
 
 4.  **Nextflow expertise**\
-    The deployment and configuration of compute environments and workflows should be led and driven by the group or organisation. This requires t dedicated resources with technical expertise in Nextflow, and infrastructure expertise, including HPC and commercial cloud (depending on the exact use case).\
+    The deployment and configuration of compute environments and workflows should be led and driven by the group or organisation. This requires dedicated resources with technical expertise in Nextflow, and infrastructure expertise, including HPC and commercial cloud (depending on the exact use case).\
     The dedicated resource with relevant expertise may need to:
 
     -   Implement changes to the workflow (usually edits to the configuration profiles)
