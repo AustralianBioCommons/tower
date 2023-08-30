@@ -36,7 +36,7 @@ As we are in a pilot project phase, there may be some unplanned interruptions an
 ## Prerequisite list
 
 1.  **Access to compute infrastructure**\
-    At least one compute infrastructure that can be configured on the BioCommons Tower service. There are several platforms that are supported on Tower and you can find them here.
+    At least one compute infrastructure that can be configured on the BioCommons Tower service. There are several platforms that are supported on Tower and you can find them [here](https://help.tower.nf/23.2/compute-envs/overview/#platforms).
 
 2.  **Nextflow workflows**\
     You should have nextflow workflows implemented and tested on the compute environments from 1. Internally implemented workflows, those re-used from nf-core, or any other resources are ok. We prefer implementation of config profiles that allow docker/singularity executions for portability purposes.
