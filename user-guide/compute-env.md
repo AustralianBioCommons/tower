@@ -49,9 +49,9 @@ There are a few points to be considered when using the Tower agent:
 
 To address these points:
 
-1. Create a personal access token or use a pre-created access token as described [here](create_personal_token) (access1).
-2. Obtain the connection id for the compote environment from its credential page (conn_id).
-3. Run Tower agent using access1 and conn_id, and an independent work directory (any directory you have access to).
+1. Create a personal access token or use a pre-created access token as described [here](create_personal_token) (e.g. `access1`).
+2. Obtain the connection id for the compote environment from its credential page (e.g. `conn_id`).
+3. Run Tower agent using `access1` and `conn_id`, and an independent work directory (any directory you have access to).
 4. The compute environment will be available and usable as long as the agent is running.
 
 {% include callout.html type="important" content="Tower agent does not support service accounts on the HPC. In other words, you cannot use one agent for multiple users on tower." %}
