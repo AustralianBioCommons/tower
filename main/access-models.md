@@ -16,12 +16,12 @@ The Australian BioCommons supports this model by providing advice and expertise 
 Please note:
 - Each organisation/group is responsible for the long-term management and maintenance of its workspaces. Organisation workspaces are private and their resources are only accessible by the workspace users and the owners of the Australian BioCommons organisation.
 
-- Organisation workspaces can be shared where all their resources become accessible to all users within the Australian BioCommons organisation on Tower. This kind of workspace can be very effective for sharing workflows that benefit the broader bioinformatics community. Check the Tower documentation to understand more about [shared worksapces](https://help.tower.nf/latest/orgs-and-teams/shared-workspaces/).
+- Organisation workspaces can be shared where all their resources become accessible to all users within the Australian BioCommons organisation on Tower. This kind of workspace can be very effective for sharing workflows that benefit the broader bioinformatics community. Check the Tower documentation to understand more about [shared workspaces](https://help.tower.nf/latest/orgs-and-teams/shared-workspaces/).
 
 > **Important:**
-> Please [contacting us](contact_us) if you plan to apply for an organisation workspace.
+> Please [contact us](contact_us) if you plan to apply for an organisation workspace.
 
-> **Organisaion workspace Support:**
+> **Organisation workspace support:**
 > Organisation workspace support: Read about the [available support](/main/join_us.md) for this access model here.
 
 
