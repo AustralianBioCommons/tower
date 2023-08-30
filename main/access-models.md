@@ -35,7 +35,7 @@ Please note:
 - Users are responsible for setting up, managing and maintaining their personal workspaces.
 
 > **Important:**
-> To access a personal workspace visit the accessing the service section.
+> To access a personal workspace visit the [accessing the service](/tower/user-guide/service-access#create-and-access-a-personal-workspace) section of the user guide.
 
 
 
