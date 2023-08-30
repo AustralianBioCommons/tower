@@ -13,12 +13,6 @@ If your group would like to access and explore the organisation workspace, pleas
 
 Please note that we are unable to directly support personal workspaces at this stage as we have limited capacity during the pilot phase. The available support is summarised below.
 
-**Personal workspace support:**
-
--   Documentation and [user guide](/tower/user-guide/index) available 
--   Support for technical issues related to the core functionality of the Australian BioCommons Nextflow Tower service, such as service availability
--   There is no support available for workspace resources configuration or management issues such as workflows, compute environments, and credentials.
-
 **Organisation workspace support:**
 
 -   Documentation and [user guide](/tower/user-guide/index) available
@@ -26,6 +20,12 @@ Please note that we are unable to directly support personal workspaces at this s
 -   Fulfilment of the prerequisite list described below.
 -   Agreement to follow a support plan with milstones to achieve.
 -   Access to compute infrastructure is available through [Australian BioCommons Leadership Share (ABLeS)](https://australianbiocommons.github.io/ables/) if eligibility criteria are met.
+
+**Personal workspace support:**
+
+-   Documentation and [user guide](/tower/user-guide/index) available 
+-   Support for technical issues related to the core functionality of the Australian BioCommons Nextflow Tower service, such as service availability
+-   There is no support available for workspace resources configuration or management issues such as workflows, compute environments, and credentials.
 
 If you meet the prerequisites for an organisation workspace and require help to quickly push your workspace to production mode, [contact us](contact_us) to discuss this.
 
