@@ -9,7 +9,7 @@ contributors: [Ziad Al-Bkhetan, Johan Gustafsson, Patrick Capon]
 
 Through a licence agreement with Seqera Labs, Australian BioCommons is in the process of standing up a national Nextflow Tower service, enabling a centralised command post for Nextflow workflows to be offered as a fully subsidised service for Australian researchers.
 
-Working with partners including service hosts Pawsey Supercomputing Research Centre, NCI Australia, Sydney Informatics Hub, QCIF and Melbourne Bioinformatics, the Australian Nextflow Tower Service will deliver a key component of the BioCommons’ vision for an ecosystem of data analysis and digital asset stewardship platforms. The Tower pilot project is delivered through the BioCommons `Bring Your Own Data’ Expansion Project`, which attracts ARDC and Bioplatforms Australia funding.
+Working with partners including service hosts Pawsey Supercomputing Research Centre, NCI Australia, Sydney Informatics Hub, QCIF and Melbourne Bioinformatics, the Australian Nextflow Tower Service will deliver a key component of the BioCommons’ vision for an ecosystem of data analysis and digital asset stewardship platforms. The Tower pilot project is delivered through the BioCommons `Bring Your Own Data Expansion Project`, which attracts ARDC and Bioplatforms Australia funding.
 
 ## Aims of the pilot project
 
@@ -26,7 +26,7 @@ At the end of the pilot phase, the Australian BioCommons will make a decision on
 
 Since investigations commenced in July 2022:
 - Nextflow Tower has been deployed on Pawsey infrastructure
-- 40 Researchers from 20 groups/organisations such as AGRF, AusARG, WEHI, Telethon Kids Institute, Children’s Cancer Institute, the University of Melbourne Centre for Cancer Research, QUT and the University of Sydney are developing and running Nextflow workflows through the service
+- 40 researchers from 20 groups/organisations such as AGRF, AusARG, WEHI, Telethon Kids Institute, Children’s Cancer Institute, the University of Melbourne Centre for Cancer Research, QUT and the University of Sydney are developing and running Nextflow workflows through the service
 - Several workflows have been run on Pawsey, NCI, AGRF and AWS infrastructure.
 
 
