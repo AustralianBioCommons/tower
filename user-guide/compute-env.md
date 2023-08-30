@@ -8,7 +8,7 @@ type: guides
 
 ## Introduction
 
-Tower supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Tower documenation] (https://help.tower.nf/latest/compute-envs/overview/). 
+Tower supports running pipelines on several compute platforms including commercial cloud such as AWS and Azure, as well as high-performance computer (HPC). A full list of supported platforms is available through [Tower documentation] (https://help.tower.nf/latest/compute-envs/overview/). 
 
 To access these compute infrastructures through Tower, compute environments need to be created and configured on Tower for each compute infrastructure.
 
@@ -41,12 +41,11 @@ The following steps need to be completed in order, unless they have been complet
 
 ### Utilising Compute environment with Tower Agent
 
-There are few points to be considered when using the Tower Agent.
-
+There are a few points to be considered when using the Tower agent:
 - The users of a workspace will share the same compute environment and credentials.
 - Each user needs to create their own personal access token.
-- Each user needs to run Tower agent on their account on the HPC.
-- Each user needs to pass their personal access token and the shared connection id (of the credential) to their instance of tower agent on the HPC.
+- Each user needs to run the Tower agent on their account on the HPC.
+- Each user needs to pass their personal access token and the shared connection id (of the credential) to their instance of the Tower agent on the HPC.
 
 To address these points:
 
@@ -55,7 +54,7 @@ To address these points:
 3. Run Tower agent using access1 and conn_id, and an independent work directory (any directory you have access to).
 4. The compute environment will be available and usable as long as the agent is running.
 
-{% include callout.html type="important" content="Tower agent does not support service accounts on the HPC. In other words, you can not use one agent for multiple users on tower." %}
+{% include callout.html type="important" content="Tower agent does not support service accounts on the HPC. In other words, you cannot use one agent for multiple users on tower." %}
 
 {% include callout.html type="note" content="The agent should be able to access the internet." %}
 
