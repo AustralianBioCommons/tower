@@ -9,7 +9,7 @@ type: guides
 
 ## Create and access a personal workspace
 
-By default, each user on the Australian BioCommon Nextflow Tower service will have their own personal workspace which can be accessed directly after logging into the service. No need to contact the Australian BioCommons to use your own personal workspace. This model is not supported by the Australian BioCommons at this stage, and users are responsible to configure and use their personal workspace.
+By default, each user on the Australian BioCommons Nextflow Tower service will have their own personal workspace which can be accessed directly after logging into the service. There is no need to contact the Australian BioCommons to use your own personal workspace. This model is not supported by the Australian BioCommons at this pilot project stage, and users are responsible to configure and use their personal workspace.
 
 
 ## Create and access an organisation / group / institutional workspace
@@ -26,7 +26,7 @@ Under the pilot project, you can:
 
 4. The Australian BioCommons will create a workspace for you and add you as an administrator to the workspace.
 
-5. You can add other users to your workspace by following the instructions at (Join an existing workspace below)
+5. You can add other users to your workspace by following the instructions below
 
 ## Join an existing organisation workspace
 
