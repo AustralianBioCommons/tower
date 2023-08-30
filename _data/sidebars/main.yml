@@ -5,6 +5,8 @@ subitems:
     url: /main/join_us
   - title: Service access models
     url: /main/access-models
+  - title: User guide
+    url: /user-guide/index
   - title: Contact us
     url: /main/contact_us
   - title: Contributors
